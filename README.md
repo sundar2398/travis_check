@@ -6,3 +6,4 @@ codacy check 1
 
 
 codacy chek 2
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1786dc1bbae645aa93f2a374f946e231)](https://www.codacy.com/app/sundar2398/travis_check?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sundar2398/travis_check&amp;utm_campaign=Badge_Grade)
